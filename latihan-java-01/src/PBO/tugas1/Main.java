@@ -5,6 +5,7 @@ package PBO.tugas1;
  * @CutNurhidayanti
  * program ini berada pada package PBO.tugas1
  * merupakan program utama untuk menjalankan program
+ * https://youtu.be/E_1pLIRFbM4
  */
 
 import static PBO.tugas1.Squirrel.bidangLompat;
