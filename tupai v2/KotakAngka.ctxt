@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=KotakAngka
+comment1.params=
+comment1.target=KotakAngka()
+comment2.params=
+comment2.target=int\ posisiTupai()
+comment3.params=
+comment3.target=void\ PrintKotakAngka()
+comment4.params=posisiTupai
+comment4.target=int\ kesempatan(int)
+comment5.params=minimalLompat\ batasLompat
+comment5.target=void\ lompat(int,\ int)
+comment6.params=kotak\ posisiTupai
+comment6.target=int\ minimal(int[][],\ int)
+comment7.params=minimalLompat\ lompatanUser
+comment7.target=int\ nilai(int,\ int)
+numComments=8
